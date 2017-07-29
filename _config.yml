@@ -38,9 +38,8 @@ event:
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      This interdisciplinary & experiential event is open-ended and meant to bring together engineers, business students, designers, entrepreneurs, etc. Utilize data science in useful and positive ways beyond the classroom and Kaggle competitions.
+
 
   # Frequently asked questions.
   faq:
