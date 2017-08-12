@@ -54,10 +54,24 @@ event:
       answer: >
         Yes. Only students who are currently enrolled at a college/university or
         have graduated within the past 12 months are eligible to attend.
+    - question: "How many people can be in a Team?"
+      answer: >
+        You can form teams of upto 3 members.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at Shiv Nadar University.
-        
+    - question: "How to get to HackData?"
+      answer: >
+        We will be providing several busses from Sector-16 Metro station, Noida. We'll confirm the timing soon.
+    - question: "What should I bring?"
+      answer: >
+        Laptop, Charger, Change of clothes and a Cool Hack idea. Don't worry about food or drinks, we've got you covered there.
+    - question: "What if I have never been to a Hackathon before?"
+      answer: >
+        No worries! Hackathons can be a great place to learn a lot new skills. You will meet lots of awesome people where, Just come eager to learn and build.
+
+
+
   # This is the message you'll receive once you've registered.
   register:
     message: >
